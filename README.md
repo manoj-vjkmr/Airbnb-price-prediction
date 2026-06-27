@@ -7,6 +7,12 @@ Real-estate pricing is a high-dimensional, non-linear problem. This study compar
 1. **Interpretable Linear Baselines:** OLS and Ridge Regression to quantify directional feature influence.
 2. **High-Performance Ensemble Models:** Random Forest, XGBoost, LightGBM, and CatBoost to capture non-linear market patterns.
 
+## Libraries/tech used
+
+**Modeling:** Scikit-Learn, XGBoost, LightGBM, CatBoost
+**Statistics:** StatsModels, SciPy (ANOVA, Tukey HSD)
+**Optimization:** GridSearch/Hyperparameter Tuning
+
 ## Methodology
 
 ### 1. Statistical Preprocessing
